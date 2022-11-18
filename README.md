@@ -4,6 +4,10 @@ Atribuição de IPv4 e IPv6 a rotedores e PCs em uma topologia de Rede simples e
 
 ### 📋 Pré-requisitos
 
+### Tabela de endereçamento
+
+![2022-11-18 11_41_30-PT Activity_ 01_33_54](https://user-images.githubusercontent.com/77652724/202787348-a1986237-262f-43c1-9292-6f7818779fbb.png)
+
 É necessário ter o Packet Tracer instalado no computador bem como o Java para rodar o programa
 
 ### 🔧 Configuração das interfaces GigabitEthernet e Serial R1
