@@ -57,6 +57,10 @@ copy running-config startup-config
 
 ```
 
+### Topologia UP
+
+![2022-11-18 11_42_28-Cisco Packet Tracer - C__Users_0xcfff_OneDrive_Área de Trabalho_CCNAv7 SRWE_Mod ](https://user-images.githubusercontent.com/77652724/202787876-0d2777d0-2330-4231-a021-80af764e20f1.png)
+
 
 ## 🛠️ Construído com
 
