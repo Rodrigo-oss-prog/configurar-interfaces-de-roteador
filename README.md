@@ -78,4 +78,5 @@ Site [Cisco Networking Academy](https://www.netacad.com/)
 
 * **Um desenvolvedor** - Rodrigo-oss-prog.
 
- 😊
+
+ 😊  <a href="https://github.com/Rodrigo-oss-prog"><img alt="Cisco-Packet-Tracer" src="https://img.shields.io/badge/cisco-Packet%20tracer-blue"></a>
